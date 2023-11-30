@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+ <description>
+  <measurementunit>
+   pixel
+  </measurementunit>
+  <sourceimageinformation>
+   <filename>
+    C:\Users\Jarek\AppData\Local\Temp\tess_irbrfxo1_input.JPEG
+   </filename>
+  </sourceimageinformation>
+  <ocrprocessing id="OCR_0">
+   <ocrprocessingstep>
+    <processingsoftware>
+     <softwarename>
+      tesseract v5.3.3.20231005
+     </softwarename>
+    </processingsoftware>
+   </ocrprocessingstep>
+  </ocrprocessing>
+ </description>
+ <layout>
+  <page height="1080" id="page_0" physical_img_nr="0" width="1920">
+   <printspace height="1080" hpos="0" vpos="0" width="1920">
+    <composedblock height="46" hpos="91" id="cblock_0" vpos="203" width="747">
+     <textblock height="46" hpos="91" id="block_0" vpos="203" width="747">
+      <textline height="46" hpos="91" id="line_0" vpos="203" width="747">
+       <string content="FORNULA" height="46" hpos="91" id="string_0" vpos="203" wc="0.75" width="650">
+       </string>
+       <sp hpos="741" vpos="203" width="29">
+       </sp>
+       <string content="1" height="46" hpos="770" id="string_1" vpos="203" wc="0.10" width="68">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="645" hpos="90" id="cblock_1" vpos="266" width="392">
+     <textblock height="645" hpos="90" id="block_1" vpos="266" width="392">
+      <textline height="20" hpos="90" id="line_1" vpos="266" width="137">
+       <string content="The" height="20" hpos="90" id="string_2" vpos="266" wc="0.96" width="53">
+       </string>
+       <sp hpos="143" vpos="266" width="8">
+       </sp>
+       <string content="Jarek" height="20" hpos="151" id="string_3" vpos="266" wc="0.96" width="76">
+       </string>
+      </textline>
+      <textline height="35" hpos="112" id="line_2" vpos="326" width="370">
+       <string content="LAP" height="35" hpos="112" id="string_4" vpos="326" wc="0.95" width="43">
+       </string>
+       <sp hpos="155" vpos="326" width="231">
+       </sp>
+       <string content="SECTOR1" height="15" hpos="386" id="string_5" vpos="337" wc="0.91" width="96">
+       </string>
+      </textline>
+      <textline height="25" hpos="112" id="line_3" vpos="374" width="343">
+       <string content="nh" height="25" hpos="112" id="string_6" vpos="374" wc="0.10" width="14">
+       </string>
+       <sp hpos="126" vpos="374" width="260">
+       </sp>
+       <string content="31.464" height="13" hpos="386" id="string_7" vpos="378" wc="0.96" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="116" id="line_4" vpos="418" width="337">
+       <string content="2" height="13" hpos="116" id="string_8" vpos="418" wc="0.96" width="11">
+       </string>
+       <sp hpos="127" vpos="418" width="259">
+       </sp>
+       <string content="25357" height="13" hpos="386" id="string_9" vpos="418" wc="0.82" width="67">
+       </string>
+      </textline>
+      <textline height="15" hpos="116" id="line_5" vpos="457" width="339">
+       <string content="=" height="13" hpos="116" id="string_10" vpos="458" wc="0.34" width="11">
+       </string>
+       <sp hpos="127" vpos="458" width="259">
+       </sp>
+       <string content="24.910" height="15" hpos="386" id="string_11" vpos="457" wc="0.92" width="69">
+       </string>
+      </textline>
+      <textline height="14" hpos="116" id="line_6" vpos="498" width="339">
+       <string content="4" height="13" hpos="116" id="string_12" vpos="498" wc="0.60" width="13">
+       </string>
+       <sp hpos="129" vpos="498" width="257">
+       </sp>
+       <string content="25.059" height="14" hpos="386" id="string_13" vpos="498" wc="0.86" width="69">
+       </string>
+      </textline>
+      <textline height="14" hpos="116" id="line_7" vpos="537" width="339">
+       <string content="S" height="13" hpos="116" id="string_14" vpos="538" wc="0.42" width="11">
+       </string>
+       <sp hpos="127" vpos="538" width="259">
+       </sp>
+       <string content="24.979" height="14" hpos="386" id="string_15" vpos="537" wc="0.93" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="116" id="line_8" vpos="578" width="338">
+       <string content="6" height="13" hpos="116" id="string_16" vpos="578" wc="0.96" width="11">
+       </string>
+       <sp hpos="127" vpos="578" width="259">
+       </sp>
+       <string content="24,921" height="13" hpos="386" id="string_17" vpos="578" wc="0.71" width="68">
+       </string>
+      </textline>
+      <textline height="25" hpos="112" id="line_9" vpos="614" width="345">
+       <string content="Ps" height="25" hpos="112" id="string_18" vpos="614" wc="0.18" width="15">
+       </string>
+       <sp hpos="127" vpos="614" width="259">
+       </sp>
+       <string content="24.960" height="15" hpos="386" id="string_19" vpos="617" wc="0.88" width="71">
+       </string>
+      </textline>
+      <textline height="13" hpos="116" id="line_10" vpos="658" width="336">
+       <string content="8" height="13" hpos="116" id="string_20" vpos="658" wc="0.95" width="12">
+       </string>
+       <sp hpos="128" vpos="658" width="258">
+       </sp>
+       <string content="36.411" height="13" hpos="386" id="string_21" vpos="658" wc="0.96" width="66">
+       </string>
+      </textline>
+      <textline height="13" hpos="116" id="line_11" vpos="698" width="338">
+       <string content="S" height="13" hpos="116" id="string_22" vpos="698" wc="0.0" width="12">
+       </string>
+       <sp hpos="128" vpos="698" width="258">
+       </sp>
+       <string content="24.815" height="13" hpos="386" id="string_23" vpos="698" wc="0.92" width="68">
+       </string>
+      </textline>
+      <textline height="14" hpos="116" id="line_12" vpos="738" width="339">
+       <string content="10" height="14" hpos="116" id="string_24" vpos="738" wc="0.95" width="24">
+       </string>
+       <sp hpos="140" vpos="738" width="246">
+       </sp>
+       <string content="25.062" height="14" hpos="386" id="string_25" vpos="738" wc="0.96" width="69">
+       </string>
+      </textline>
+      <textline height="25" hpos="116" id="line_13" vpos="774" width="339">
+       <string content="at." height="25" hpos="116" id="string_26" vpos="774" wc="0.65" width="21">
+       </string>
+       <sp hpos="137" vpos="774" width="249">
+       </sp>
+       <string content="24.925" height="13" hpos="386" id="string_27" vpos="778" wc="0.91" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="116" id="line_14" vpos="818" width="339">
+       <string content="12" height="13" hpos="116" id="string_28" vpos="818" wc="0.94" width="23">
+       </string>
+       <sp hpos="139" vpos="818" width="247">
+       </sp>
+       <string content="24.953" height="13" hpos="386" id="string_29" vpos="818" wc="0.89" width="69">
+       </string>
+      </textline>
+      <textline height="14" hpos="116" id="line_15" vpos="858" width="339">
+       <string content="a3" height="13" hpos="116" id="string_30" vpos="858" wc="0.56" width="22">
+       </string>
+       <sp hpos="138" vpos="858" width="248">
+       </sp>
+       <string content="25.057" height="14" hpos="386" id="string_31" vpos="858" wc="0.96" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="116" id="line_16" vpos="898" width="340">
+       <string content="14" height="13" hpos="116" id="string_32" vpos="898" wc="0.94" width="24">
+       </string>
+       <sp hpos="140" vpos="898" width="246">
+       </sp>
+       <string content="24.883" height="13" hpos="386" id="string_33" vpos="898" wc="0.93" width="70">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="575" hpos="606" id="cblock_2" vpos="337" width="98">
+     <textblock height="575" hpos="606" id="block_2" vpos="337" width="98">
+      <textline height="15" hpos="606" id="line_17" vpos="337" width="98">
+       <string content="SECTOR2" height="15" hpos="606" id="string_34" vpos="337" wc="0.91" width="98">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_18" vpos="378" width="69">
+       <string content="24.963" height="13" hpos="606" id="string_35" vpos="378" wc="0.90" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_19" vpos="418" width="68">
+       <string content="38.461" height="13" hpos="606" id="string_36" vpos="418" wc="0.96" width="68">
+       </string>
+      </textline>
+      <textline height="14" hpos="606" id="line_20" vpos="458" width="68">
+       <string content="30.114" height="14" hpos="606" id="string_37" vpos="458" wc="0.96" width="68">
+       </string>
+      </textline>
+      <textline height="14" hpos="606" id="line_21" vpos="498" width="71">
+       <string content="24.890" height="14" hpos="606" id="string_38" vpos="498" wc="0.94" width="71">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_22" vpos="538" width="69">
+       <string content="24.821" height="13" hpos="606" id="string_39" vpos="538" wc="0.92" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_23" vpos="578" width="67">
+       <string content="24.811" height="13" hpos="606" id="string_40" vpos="578" wc="0.93" width="67">
+       </string>
+      </textline>
+      <textline height="14" hpos="606" id="line_24" vpos="618" width="71">
+       <string content="24.648" height="14" hpos="606" id="string_41" vpos="618" wc="0.96" width="71">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_25" vpos="658" width="71">
+       <string content="24.934" height="13" hpos="606" id="string_42" vpos="658" wc="0.94" width="71">
+       </string>
+      </textline>
+      <textline height="15" hpos="606" id="line_26" vpos="697" width="69">
+       <string content="24.910" height="15" hpos="606" id="string_43" vpos="697" wc="0.85" width="69">
+       </string>
+      </textline>
+      <textline height="14" hpos="606" id="line_27" vpos="737" width="72">
+       <string content="24.944" height="14" hpos="606" id="string_44" vpos="737" wc="0.92" width="72">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_28" vpos="778" width="68">
+       <string content="24.793" height="13" hpos="606" id="string_45" vpos="778" wc="0.94" width="68">
+       </string>
+      </textline>
+      <textline height="13" hpos="606" id="line_29" vpos="818" width="70">
+       <string content="24.689" height="13" hpos="606" id="string_46" vpos="818" wc="0.94" width="70">
+       </string>
+      </textline>
+      <textline height="14" hpos="606" id="line_30" vpos="858" width="69">
+       <string content="35.062" height="14" hpos="606" id="string_47" vpos="858" wc="0.96" width="69">
+       </string>
+      </textline>
+      <textline height="14" hpos="606" id="line_31" vpos="898" width="69">
+       <string content="77.309" height="14" hpos="606" id="string_48" vpos="898" wc="0.96" width="69">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <illustration height="100" hpos="670" id="cblock_3" vpos="980" width="103">
+    </illustration>
+    <composedblock height="534" hpos="826" id="cblock_4" vpos="337" width="97">
+     <textblock height="534" hpos="826" id="block_3" vpos="337" width="97">
+      <textline height="15" hpos="826" id="line_32" vpos="337" width="97">
+       <string content="SECTOR3" height="15" hpos="826" id="string_49" vpos="337" wc="0.76" width="97">
+       </string>
+      </textline>
+      <textline height="14" hpos="826" id="line_33" vpos="377" width="69">
+       <string content="24.275" height="14" hpos="826" id="string_50" vpos="377" wc="0.87" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_34" vpos="418" width="66">
+       <string content="21.963" height="13" hpos="826" id="string_51" vpos="418" wc="0.79" width="66">
+       </string>
+      </textline>
+      <textline height="14" hpos="826" id="line_35" vpos="458" width="67">
+       <string content="31.703" height="14" hpos="826" id="string_52" vpos="458" wc="0.95" width="67">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_36" vpos="498" width="65">
+       <string content="21.973" height="13" hpos="826" id="string_53" vpos="498" wc="0.93" width="65">
+       </string>
+      </textline>
+      <textline height="14" hpos="826" id="line_37" vpos="538" width="69">
+       <string content="23.250" height="14" hpos="826" id="string_54" vpos="538" wc="0.96" width="69">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_38" vpos="578" width="67">
+       <string content="22.128" height="13" hpos="826" id="string_55" vpos="578" wc="0.91" width="67">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_39" vpos="618" width="67">
+       <string content="21.889" height="13" hpos="826" id="string_56" vpos="618" wc="0.96" width="67">
+       </string>
+      </textline>
+      <textline height="14" hpos="826" id="line_40" vpos="658" width="68">
+       <string content="21.807" height="14" hpos="826" id="string_57" vpos="658" wc="0.95" width="68">
+       </string>
+      </textline>
+      <textline height="14" hpos="826" id="line_41" vpos="698" width="70">
+       <string content="29.280" height="14" hpos="826" id="string_58" vpos="698" wc="0.91" width="70">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_42" vpos="738" width="66">
+       <string content="21.659" height="13" hpos="826" id="string_59" vpos="738" wc="0.82" width="66">
+       </string>
+      </textline>
+      <textline height="14" hpos="826" id="line_43" vpos="778" width="67">
+       <string content="21.689" height="14" hpos="826" id="string_60" vpos="778" wc="0.96" width="67">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_44" vpos="818" width="66">
+       <string content="21.857" height="13" hpos="826" id="string_61" vpos="818" wc="0.96" width="66">
+       </string>
+      </textline>
+      <textline height="13" hpos="826" id="line_45" vpos="858" width="68">
+       <string content="21.843" height="13" hpos="826" id="string_62" vpos="858" wc="0.91" width="68">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="14" hpos="826" id="cblock_5" vpos="898" width="69">
+     <textblock height="14" hpos="826" id="block_4" vpos="898" width="69">
+      <textline height="14" hpos="826" id="line_46" vpos="898" width="69">
+       <string content="22.052" height="14" hpos="826" id="string_63" vpos="898" wc="0.94" width="69">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="110" hpos="777" id="cblock_6" vpos="970" width="231">
+     <textblock height="110" hpos="777" id="block_5" vpos="970" width="231">
+      <textline height="110" hpos="777" id="line_47" vpos="970" width="231">
+       <string content="Ts" height="110" hpos="777" id="string_64" vpos="970" wc="0.12" width="231">
+       </string>
+       <sp hpos="1008" vpos="970" width="-45">
+       </sp>
+       <string content="|" height="114" hpos="963" id="string_65" vpos="966" wc="0.65" width="48">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="13" hpos="1029" id="cblock_7" vpos="952" width="57">
+     <textblock height="13" hpos="1029" id="block_6" vpos="952" width="57">
+      <textline height="13" hpos="1029" id="line_48" vpos="952" width="57">
+       <string content="eo" height="13" hpos="1029" id="string_66" vpos="952" wc="0.49" width="57">
+       </string>
+       <sp hpos="1086" vpos="952" width="-8">
+       </sp>
+       <string content="2" height="28" hpos="1078" id="string_67" vpos="944" wc="0.52" width="13">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="575" hpos="1046" id="cblock_8" vpos="337" width="322">
+     <textblock height="575" hpos="1046" id="block_7" vpos="337" width="322">
+      <textline height="15" hpos="1046" id="line_49" vpos="337" width="322">
+       <string content="LAP" height="14" hpos="1046" id="string_68" vpos="337" wc="0.95" width="40">
+       </string>
+       <sp hpos="1086" vpos="337" width="5">
+       </sp>
+       <string content="TIME" height="15" hpos="1091" id="string_69" vpos="337" wc="0.95" width="54">
+       </string>
+       <sp hpos="1145" vpos="337" width="169">
+       </sp>
+       <string content="TYRE" height="14" hpos="1314" id="string_70" vpos="337" wc="0.95" width="54">
+       </string>
+      </textline>
+      <textline height="15" hpos="1046" id="line_50" vpos="377" width="289">
+       <string content="1:20.704" height="15" hpos="1046" id="string_71" vpos="377" wc="0.91" width="88">
+       </string>
+       <sp hpos="1134" vpos="377" width="194">
+       </sp>
+       <string content="S," height="9" hpos="1328" id="string_72" vpos="379" wc="0.60" width="7">
+       </string>
+      </textline>
+      <textline height="13" hpos="1046" id="line_51" vpos="418" width="289">
+       <string content="1:25.782" height="13" hpos="1046" id="string_73" vpos="418" wc="0.87" width="84">
+       </string>
+       <sp hpos="1130" vpos="418" width="198">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_74" vpos="419" wc="0.68" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_52" vpos="458" width="289">
+       <string content="1:26.729" height="14" hpos="1046" id="string_75" vpos="458" wc="0.87" width="84">
+       </string>
+       <sp hpos="1130" vpos="458" width="198">
+       </sp>
+       <string content="S," height="9" hpos="1328" id="string_76" vpos="459" wc="0.81" width="7">
+       </string>
+      </textline>
+      <textline height="13" hpos="1046" id="line_53" vpos="498" width="289">
+       <string content="1:11.923" height="13" hpos="1046" id="string_77" vpos="498" wc="0.78" width="80">
+       </string>
+       <sp hpos="1126" vpos="498" width="202">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_78" vpos="499" wc="0.66" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_54" vpos="538" width="289">
+       <string content="1:13.051" height="14" hpos="1046" id="string_79" vpos="538" wc="0.83" width="82">
+       </string>
+       <sp hpos="1128" vpos="538" width="200">
+       </sp>
+       <string content="S," height="9" hpos="1328" id="string_80" vpos="539" wc="0.64" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_55" vpos="578" width="289">
+       <string content="1:11.860" height="14" hpos="1046" id="string_81" vpos="578" wc="0.86" width="83">
+       </string>
+       <sp hpos="1129" vpos="578" width="199">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_82" vpos="579" wc="0.80" width="7">
+       </string>
+      </textline>
+      <textline height="13" hpos="1046" id="line_56" vpos="618" width="289">
+       <string content="1:11.497" height="13" hpos="1046" id="string_83" vpos="618" wc="0.81" width="82">
+       </string>
+       <sp hpos="1128" vpos="618" width="200">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_84" vpos="619" wc="0.68" width="7">
+       </string>
+      </textline>
+      <textline height="13" hpos="1046" id="line_57" vpos="658" width="289">
+       <string content="1:23.153" height="13" hpos="1046" id="string_85" vpos="658" wc="0.88" width="82">
+       </string>
+       <sp hpos="1128" vpos="658" width="200">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_86" vpos="659" wc="0.66" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_58" vpos="698" width="289">
+       <string content="1:19.005" height="14" hpos="1046" id="string_87" vpos="698" wc="0.86" width="85">
+       </string>
+       <sp hpos="1131" vpos="698" width="197">
+       </sp>
+       <string content="S," height="9" hpos="1328" id="string_88" vpos="699" wc="0.80" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_59" vpos="738" width="289">
+       <string content="1:11.666" height="14" hpos="1046" id="string_89" vpos="738" wc="0.87" width="81">
+       </string>
+       <sp hpos="1127" vpos="738" width="201">
+       </sp>
+       <string content="a" height="9" hpos="1328" id="string_90" vpos="739" wc="0.57" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_60" vpos="778" width="289">
+       <string content="1:11.408" height="14" hpos="1046" id="string_91" vpos="778" wc="0.82" width="84">
+       </string>
+       <sp hpos="1130" vpos="778" width="198">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_92" vpos="779" wc="0.82" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_61" vpos="818" width="289">
+       <string content="1:11.500" height="14" hpos="1046" id="string_93" vpos="818" wc="0.81" width="83">
+       </string>
+       <sp hpos="1129" vpos="818" width="199">
+       </sp>
+       <string content="s" height="9" hpos="1328" id="string_94" vpos="819" wc="0.82" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_62" vpos="858" width="289">
+       <string content="1:21.963" height="14" hpos="1046" id="string_95" vpos="858" wc="0.88" width="82">
+       </string>
+       <sp hpos="1128" vpos="858" width="200">
+       </sp>
+       <string content="S," height="9" hpos="1328" id="string_96" vpos="859" wc="0.78" width="7">
+       </string>
+      </textline>
+      <textline height="14" hpos="1046" id="line_63" vpos="898" width="289">
+       <string content="2:04.845" height="14" hpos="1046" id="string_97" vpos="898" wc="0.92" width="90">
+       </string>
+       <sp hpos="1136" vpos="898" width="192">
+       </sp>
+       <string content="q" height="9" hpos="1328" id="string_98" vpos="899" wc="0.0" width="7">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="126" hpos="1087" id="cblock_9" vpos="954" width="168">
+     <textblock height="126" hpos="1087" id="block_8" vpos="954" width="168">
+      <textline height="38" hpos="1208" id="line_64" vpos="954" width="47">
+       <string content="=" height="38" hpos="1208" id="string_99" vpos="954" wc="0.30" width="47">
+       </string>
+      </textline>
+      <textline height="52" hpos="1147" id="line_65" vpos="979" width="79">
+       <string content="2" height="52" hpos="1147" id="string_100" vpos="979" wc="0.38" width="79">
+       </string>
+      </textline>
+      <textline height="72" hpos="1087" id="line_66" vpos="1008" width="164">
+       <string content="+&gt;" height="76" hpos="1083" id="string_101" vpos="1004" wc="0.30" width="57">
+       </string>
+       <sp hpos="1140" vpos="1004" width="36">
+       </sp>
+       <string content="=" height="48" hpos="1176" id="string_102" vpos="1032" wc="0.69" width="75">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="97" hpos="1593" id="cblock_10" vpos="337" width="210">
+     <textblock height="97" hpos="1593" id="block_9" vpos="337" width="210">
+      <textline height="15" hpos="1705" id="line_67" vpos="337" width="98">
+       <string content="PENALTY" height="15" hpos="1705" id="string_103" vpos="337" wc="0.96" width="98">
+       </string>
+      </textline>
+      <textline height="16" hpos="1593" id="line_68" vpos="378" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_104" vpos="378" wc="0.91" width="110">
+       </string>
+       <sp hpos="1703" vpos="378" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_105" vpos="378" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="378" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_106" vpos="378" wc="0.95" width="50">
+       </string>
+      </textline>
+      <textline height="16" hpos="1593" id="line_69" vpos="418" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_107" vpos="418" wc="0.91" width="110">
+       </string>
+       <sp hpos="1703" vpos="418" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_108" vpos="418" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="418" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_109" vpos="418" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="16" hpos="1593" id="cblock_11" vpos="458" width="210">
+     <textblock height="16" hpos="1593" id="block_10" vpos="458" width="210">
+      <textline height="16" hpos="1593" id="line_70" vpos="458" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_110" vpos="458" wc="0.91" width="110">
+       </string>
+       <sp hpos="1703" vpos="458" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_111" vpos="458" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="458" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_112" vpos="458" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="16" hpos="1593" id="cblock_12" vpos="658" width="210">
+     <textblock height="16" hpos="1593" id="block_11" vpos="658" width="210">
+      <textline height="16" hpos="1593" id="line_71" vpos="658" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_113" vpos="658" wc="0.91" width="110">
+       </string>
+       <sp hpos="1703" vpos="658" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_114" vpos="658" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="658" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_115" vpos="658" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="16" hpos="1593" id="cblock_13" vpos="698" width="210">
+     <textblock height="16" hpos="1593" id="block_12" vpos="698" width="210">
+      <textline height="16" hpos="1593" id="line_72" vpos="698" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_116" vpos="698" wc="0.90" width="110">
+       </string>
+       <sp hpos="1703" vpos="698" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_117" vpos="698" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="698" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_118" vpos="698" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="16" hpos="1593" id="cblock_14" vpos="818" width="210">
+     <textblock height="16" hpos="1593" id="block_13" vpos="818" width="210">
+      <textline height="16" hpos="1593" id="line_73" vpos="818" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_119" vpos="818" wc="0.91" width="110">
+       </string>
+       <sp hpos="1703" vpos="818" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_120" vpos="818" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="818" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_121" vpos="818" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="16" hpos="1593" id="cblock_15" vpos="858" width="210">
+     <textblock height="16" hpos="1593" id="block_14" vpos="858" width="210">
+      <textline height="16" hpos="1593" id="line_74" vpos="858" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_122" vpos="858" wc="0.90" width="110">
+       </string>
+       <sp hpos="1703" vpos="858" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_123" vpos="858" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="858" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_124" vpos="858" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <composedblock height="16" hpos="1593" id="cblock_16" vpos="898" width="210">
+     <textblock height="16" hpos="1593" id="block_15" vpos="898" width="210">
+      <textline height="16" hpos="1593" id="line_75" vpos="898" width="210">
+       <string content="Invalidated" height="13" hpos="1593" id="string_125" vpos="898" wc="0.90" width="110">
+       </string>
+       <sp hpos="1703" vpos="898" width="8">
+       </sp>
+       <string content="Lap" height="16" hpos="1711" id="string_126" vpos="898" wc="0.96" width="35">
+       </string>
+       <sp hpos="1746" vpos="898" width="7">
+       </sp>
+       <string content="Time" height="13" hpos="1753" id="string_127" vpos="898" wc="0.95" width="50">
+       </string>
+      </textline>
+     </textblock>
+    </composedblock>
+    <illustration height="139" hpos="1403" id="cblock_17" vpos="941" width="421">
+    </illustration>
+    <illustration height="322" hpos="0" id="cblock_18" vpos="0" width="1920">
+    </illustration>
+   </printspace>
+  </page>
+ </layout>
+</alto>
